@@ -43,7 +43,7 @@ To train your own version of Gabor+SVM, run the following
 python Gabor_SVM.py
 ```
 
-To train your own version of LBP+SVM, run the following
+To train your own version of VGG+SVM, run the following
 ```
 python VGG_SVM.py
 ```
